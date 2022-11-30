@@ -10,7 +10,7 @@ const App = () => {
     <>
     <section className='bg-white h-screen sect'>
       <Navbar />
-      <div className='flex flex-col  lg:flex-row justify-center md:justify-around mt-28 mt-20 md:mt-20'>
+      <div className='flex flex-col  lg:flex-row justify-center md:justify-around mt-28 md:mt-20'>
         <div className='m-auto md:m-0 mt-20'>
           <h1 className='text-7xl text-center font-head font-bold md:text-9xl lg:text-left'>Manoj
           <br/>Industries</h1>
