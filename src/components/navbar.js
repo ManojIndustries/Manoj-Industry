@@ -8,7 +8,7 @@ const Navbar = () => {
 
   const lists = [
     {name:"Home"},
-    {name:"Aboust Us"},
+    {name:"About Us"},
     {name:"Projects"},
     {name:"Contact Us"},
     ]
