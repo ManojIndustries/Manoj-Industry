@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Manoj-Industry/static/css/main.22bbc175.css",
+    "main.js": "/Manoj-Industry/static/js/main.6c0b48e7.js",
+    "static/js/787.9829d1d6.chunk.js": "/Manoj-Industry/static/js/787.9829d1d6.chunk.js",
+    "static/media/Logo.png": "/Manoj-Industry/static/media/Logo.e4a0041f79c0979589e6.png",
+    "index.html": "/Manoj-Industry/index.html",
+    "main.22bbc175.css.map": "/Manoj-Industry/static/css/main.22bbc175.css.map",
+    "main.6c0b48e7.js.map": "/Manoj-Industry/static/js/main.6c0b48e7.js.map",
+    "787.9829d1d6.chunk.js.map": "/Manoj-Industry/static/js/787.9829d1d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22bbc175.css",
+    "static/js/main.6c0b48e7.js"
+  ]
+}
