@@ -1,9 +1,8 @@
 import React from 'react'
 import './index.css'
-import Header from './components/header'
 import Navbar from './components/navbar'
 import './App.css'
-import logo from './Images/Logo.png'
+import logo from './Images/logo_of_MI.svg'
 
 const App = () => {
   return (
@@ -16,7 +15,7 @@ const App = () => {
           <br/>Industries</h1>
         </div>
         <div>
-          <img src={logo} className="w-64 lg:w-60 img m-auto mt-20 lg:mt-0"/>
+          <img src={logo} className="w-72 md:mt-0 m-auto mt-14"/>
         </div>
       </div>
     </section>
